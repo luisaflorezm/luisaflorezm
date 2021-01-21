@@ -8,6 +8,9 @@ Here are some ideas to get you started
 
 - 🔭 Soy estudiante de Ingeniería en Ciencia de Datos.
 - 🤔 Tengo 17 años.
-- 🌱Actualmente estoy aprendiendo programación en Java.
-- 📫 How to reach me: luisa.florezm@upb.edu.co
-- ⚡ Fun fact: Me interesan mucho las matemáticas, la tecnología y la innovación.
+- 🌱Actualmente estoy aprendiendo programación porque siendo sincera sé muy poco.
+- 📜 I am beginner.
+- 📫 luisa.florezm@upb.edu.co
+- 👀 luisaflorezm_ en Instagram.
+- ⚡ Me interesan mucho las matemáticas, la tecnología y la innovación.
+- 😅 Creativa, tímida y sencilla.
