@@ -9,7 +9,6 @@ Here are some ideas to get you started
 - 🔭 Soy estudiante de Ingeniería en Ciencia de Datos.
 - 🤔 Tengo 20 años.
 - 🌱Actualmente estoy aprendiendo programación.
-- 📜 I am beginner.
 - 📫 luisa.florezm@upb.edu.co
 - 👀 luisaflorezm_ en Instagram.
 - ⚡ Me interesan mucho las matemáticas, la tecnología y la innovación.
